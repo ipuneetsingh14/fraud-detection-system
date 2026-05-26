@@ -192,13 +192,3 @@ Remember to set the same env vars in each host's dashboard, and update
 ML service: `POST /predict`, `GET /health`, interactive docs at `/docs`.
 
 ---
-
-## 📝 Resume line
-
-> Developed an AI-powered fraud detection platform using React, Node.js, and a
-> Python (scikit-learn) ML microservice with JWT auth, real-time Socket.io alerts,
-> analytics dashboards, and explainable risk scoring.
-
-## 🔭 Ideas to extend
-JWT refresh tokens · Docker Compose · Redis caching · SHAP/LIME explainability ·
-Kafka event streaming · email/Telegram alerts · geo "impossible travel" detection.
