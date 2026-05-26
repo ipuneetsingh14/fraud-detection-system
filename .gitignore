@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Env files
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+ml-service/saved_models/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
